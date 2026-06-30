@@ -45,7 +45,7 @@ int main(){
             break;
         }
         else if(count==n && arr[i]!=k){
-            printf("NOT FOUND");
+            printf("NOT FOUND\n");
             printf("Comparisons = %d \n", count);
         }
     }
